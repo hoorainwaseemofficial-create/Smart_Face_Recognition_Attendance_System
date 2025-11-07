@@ -1,6 +1,6 @@
 cmake
 dlib-bin==19.24.2
-face-recognition==1.3.0
+face-recognition @ git+https://github.com/ageitgey/face_recognition.git
 numpy
 streamlit
 opencv-python-headless
